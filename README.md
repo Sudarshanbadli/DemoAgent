@@ -12,7 +12,7 @@ A sleek, modern webpage with a centered GIF, heading, paragraph, and a call-to-a
 - **Dynamic Widget Loading**: The Omnidimension widget script loads only when the button is clicked, improving page performance.
 
 ## Demo
-[]
+[https://sudarshanbadli.github.io/DemoAgent/]
 
 ## Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge, etc.).
@@ -22,7 +22,7 @@ A sleek, modern webpage with a centered GIF, heading, paragraph, and a call-to-a
 ## Installation
 1. **Clone or Download the Repository**:
    ```bash
-   git clone 
+   git clone github.com/Sudarshanbadli/DemoAgent/
    ```
    Alternatively, download the `index.html` file directly.
 
